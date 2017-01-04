@@ -1,0 +1,246 @@
+header{
+	border: 5px solid;
+	border-color:grey;
+	margin:20px 0 0;
+	padding:10px;
+	box-shadow: 10px 10px 15px silver;
+	background: #C8F5F0;
+	border-radius:18px;
+}
+h1{
+	text-align:center;
+	color: grey;
+	font-family: helvetica;
+	font-size: 22pt;
+	text-align:center;
+}
+
+h2{
+	text-align:center;
+	font-family:cursive;
+	text-align:center;
+}
+
+h3{
+	font-family:cursive;
+	font-size: 12pt;
+}
+
+h4,h5{
+	font-size: 12pt;
+	font-family:cursive;
+}
+
+div.github{
+	text-align: right;
+}
+
+img.gh{
+	width: 150px;
+	border: 3px solid;
+	border-color: black;
+	background-color: #E6E6E6;
+}
+
+section{
+	border: 5px solid;
+	border-color:grey;
+	margin:20px 0 0 0;
+	padding:10px;
+	box-shadow: 10px 10px 15px silver;
+	background:white;
+	border-radius:18px;
+}
+
+footer{
+	clear:both;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px 0 0 0;
+	padding:10px;
+	box-shadow: 10px 10px 15px silver;
+	background:#C8F5F0;
+	border-radius:18px;
+	
+}
+
+.Uberschrift{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+.Unteruberschrift{
+	font-size: 18px;
+	text-decoration:underline;
+	font-weight: normal;
+}
+body{
+	font-family: Lucida Grande;
+	font-size: 18px;
+}
+/*
+nav#navHome{
+	float:left;
+	text-align:left;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px;
+	padding:10px;
+	height:675px;
+	box-shadow: 10px 10px 15px silver;
+	background:linear-gradient( white, black);
+    border-radius:18px;
+}
+
+nav#navCollection{
+	float:left;
+	text-align:left;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px;
+	padding:10px;
+	height:1125px;
+	box-shadow: 10px 10px 15px silver;
+	background:linear-gradient( white, black);
+	border-radius:18px;
+}
+
+nav#navImpressum{
+	float:left;
+	text-align:left;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px;
+	padding:10px;
+	height:225px;
+	box-shadow: 10px 10px 15px silver;
+	background:linear-gradient( white, black);
+	border-radius:18px;
+}
+
+nav#schloss{
+    width:5px;
+}
+
+section#content{
+    float:left;	
+	text-align:center;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px 0 0 0;
+	padding:10px;
+	box-shadow: 10px 10px 15px silver;
+	background-color:white;
+	border-radius:18px;
+}
+
+aside#asideHome{
+	margin:20px;
+	border: 5px solid;
+	border-color:grey;
+	box-shadow: 10px 10px 15px silver;
+	width:875px;
+	height:1430px;
+	background-color:white;
+	border-radius:18px;
+}
+
+aside#asideCollection{
+	margin:20px;
+	border: 5px solid;
+	border-color:grey;
+	box-shadow: 10px 10px 15px silver;
+	width:875px;
+	height:1750px;
+	background-color:white;
+	border-radius:18px;
+}
+
+aside#asideKontakt{
+	margin:20px;
+	border: 5px solid;
+	border-color:grey;
+	box-shadow: 10px 10px 15px silver;
+	width:875px;
+	height:1250px;
+	background-color:white;
+	border-radius:18px;
+}
+
+aside#asideImpressum{
+	margin:20px;
+	border: 5px solid;
+	border-color:grey;
+	box-shadow: 10px 10px 15px silver;
+	width:875px;
+	height:850px;
+	background-color:white;
+	border-radius:18px;
+}
+
+footer#footer{
+	clear:both;
+	border: 5px solid;
+	border-color:grey;
+	margin:20px;
+	padding:10px;
+	width:850px;
+	height:200px;
+	box-shadow: 10px 10px 15px silver;
+	background-color:white;
+	border-radius:18px;
+}
+
+#table{
+    border: 3px solid;
+	border-color:grey;
+	width: 350px;
+	height: 80px;
+	float:right;
+}
+
+article.textrahmen{
+	text-align:left;
+	border: 2px solid;
+	border-color:grey;
+	border-radius:18px;
+	padding:10px;
+	font-family: helvetica;
+}
+
+td{
+	border:3px solid;
+	border-color:grey;
+}
+
+td.TableRed{
+     background-color: red;
+}
+
+td.TableBlue{
+     background-color: blue;
+}
+
+td.TableYellow{
+     background-color: yellow;
+}
+
+
+img.Titelbild{
+	border-radius:18px;
+}
+
+img.WordCloud{
+    transform:scale(0.5,0.5)translateY(-300px)translateX(-400px)rotate(15deg);
+}
+
+div:hover img[src="http://www.hki.uni-koeln.de/sites/all/files/courses/12671/cheops_pyramide.jpg"]{
+    transform: rotate(780deg)scale(0.5,0.5);
+    transition: 5s;
+}
+
+p{
+	text-align:left;
+	text-indent: 20px; 
+}
+*/
